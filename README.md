@@ -67,4 +67,4 @@
 
 ---
 
-<p align="center"><i>⭐️ Thanks for stopping by — check out PixelCart, my current build!</i></p>
+<p align="center"><i>⭐️ Thanks for stopping!</i></p>
